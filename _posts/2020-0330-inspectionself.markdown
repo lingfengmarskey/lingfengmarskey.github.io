@@ -3,6 +3,7 @@ layout: post
 title: "自检"
 img: 20200330cover.jpg
 date: 2020-03-30 12:16:00 +0300
+description: 描述文字.
 tag: [记录, 感悟]
 ---
 
