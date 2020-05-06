@@ -1,7 +1,0 @@
----
-layout: post
-title: 棚な写真付き
-img: dda0f218f541a8bb0e7b9e014a09b150ffea14f146e9195b16ba94bc8985a2de.jpg
-date: 2020-05-06 11-56-14 +0900
----
-何かあると思うほど
