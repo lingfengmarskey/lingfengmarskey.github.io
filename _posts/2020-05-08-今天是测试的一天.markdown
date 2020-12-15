@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "今天是测试的一天"
-img: a6434f765a3a29a47a8d89b2c765905243241ce9c0c64605ed907990dc4b66fd.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Singes_Sosen.jpg/918px-Singes_Sosen.jpg
 date: 2020-05-08 16:15:42 +0800
 description: 小李是中国人
 
