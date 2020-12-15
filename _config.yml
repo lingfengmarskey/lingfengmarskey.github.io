@@ -1,6 +1,6 @@
 name: Marskey
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: Marskey's Life
+meta_description: "Never Stop Having Fun"
 
 markdown: kramdown
 highlighter: rouge
@@ -9,7 +9,7 @@ paginate: 15
 baseurl: 
 domain_name: "http://marskey.me"
 google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-feed]
 
 # Details for the RSS feed generator
 url: ""
