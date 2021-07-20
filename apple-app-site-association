@@ -5,8 +5,8 @@
       {
         "appID": "E393H8D2JP.com.marcos.Test0407",
         "paths": [
-          "deeplink",
-          "emailauth"
+          "/deeplink",
+          "/emailauth"
         ]
       }
     ]
