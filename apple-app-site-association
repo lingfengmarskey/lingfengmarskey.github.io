@@ -1,30 +1,34 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "E393H8D2JP.com.marcos.Test0407"],
-             "components": [
-               {
-                  "#": "no_universal_links",
-                  "exclude": true,
-                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-               },
-               {
-                  "/": "/buy/*",
-                  "comment": "Matches any URL whose path starts with /buy/"
-               },
-               {
-                  "/": "/help/website/*",
-                  "exclude": true,
-                  "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
-               },
-               {
-                  "/": "/help/*",
-                  "?": { "articleNumber": "????" },
-                  "comment": "Matches any URL whose path starts with /help/ and which has a query item with name 'articleNumber' and a value of exactly 4 characters"
-               }
-             ]
-           }
-       ]
-   }
+    "details": [
+      {
+        "appIDs": [
+          "E393H8D2JP.com.marcos.beader"
+        ],
+        "components": [
+          {
+            "#": "no_universal_links",
+            "exclude": true,
+            "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+          },
+          {
+            "/": "/beaders/*",
+            "comment": "Matches any URL whose path starts with /beaders/"
+          },
+          {
+            "/": "/help/website/*",
+            "exclude": true,
+            "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
+          },
+          {
+            "/": "/help/*",
+            "?": {
+              "articleNumber": "????"
+            },
+            "comment": "Matches any URL whose path starts with /help/ and which has a query item with name 'articleNumber' and a value of exactly 4 characters"
+          }
+        ]
+      }
+    ]
+  }
 }
